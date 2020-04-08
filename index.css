@@ -34,6 +34,7 @@ main {
 }
 
 .taskmaster {
+  height: 150px;
   background:#2B0808;
   background-image: url('images/taskmaster-bg.png');
   background-size: contain;
